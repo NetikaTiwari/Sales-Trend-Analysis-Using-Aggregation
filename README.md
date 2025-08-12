@@ -1,5 +1,5 @@
 
-# Task 6: Sales Trend Analysis Using Aggregations
+# Sales Trend Analysis Using Aggregations
 
 ## Objective
 Analyze monthly revenue and order volume from the `orders` table.
